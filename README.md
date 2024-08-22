@@ -13,7 +13,7 @@ This project is a back-end API for a social network web application where users 
   - [Thoughts](#thoughts)
   - [Reactions](#reactions)
 - [Walkthrough Video](#walkthrough-video)
--[Contributions](#contributing)
+- [Contributions](#contributing)
 
 ## Installation
 
